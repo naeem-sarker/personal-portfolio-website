@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--brandColorTwo);
+    padding: 20px 0px;
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.newsletter {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.follow-me {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.icon {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+h3, p, span, div {
+    color: white;
+}

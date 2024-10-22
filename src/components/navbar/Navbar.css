@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid gray;
+}
+
+.logo {
+    font-size: 32px;
+    color: var(--brandColorOne);
+    font-weight: 900;
+}
+
+.menu {
+    display: flex;
+    gap: 24px;
+}
+
+.items a {
+    color:#565656;
+    font-size: 18px;
+    font-weight: 500;
+}
