@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="footer">
       <div className="about-me">
         <h3>ABOUT ME</h3>
-        <p>Hi there, I'm Naeem Sarker. I&apos;m a full stack web developer.</p>
+        <p>Hi there, I&apos;m Naeem Sarker. I&apos;m a full stack web developer.</p>
         <span>Copyright 2024 All Right Reserved</span>
       </div>
 
